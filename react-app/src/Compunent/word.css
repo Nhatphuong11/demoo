@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    background-color: rgb(202, 104, 121);
+  }
+.item-box{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+
+}
+  
+  .item-button{
+    margin: 30px;
+    padding: 10px 50px;
+    color: aliceblue;
+    background-color: plum;
+    border-radius: 8px;
+  }
+  
+  .item-case{
+    margin: 30px;
+  }
+ 
+.text{
+    border-radius: 10px;
+    border: 2px solid rgb(108, 117, 189);
+    margin-bottom: 30px;
+}
+.btn{
+    margin: 30px;
+    padding: 10px 5px;
+    color: aliceblue;
+    background-color: rgb(93, 28, 90);
+    border-radius: 10px;
+}

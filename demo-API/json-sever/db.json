@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "phuong",
+      "age": 25,
+      "address": "HN",
+      "phone": "0976909192",
+      "id": 1
+    },
+    {
+      "name": "dung",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 32
+    },
+    {
+      "id": 2,
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083278254"
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 13
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 14
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 15
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 16
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 33
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 34
+    },
+    {
+      "name": "Nam",
+      "age": 25,
+      "address": "HN",
+      "phone": "083254",
+      "id": 35
+    }
+  ]
+}

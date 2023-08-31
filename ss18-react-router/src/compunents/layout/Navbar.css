@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    min-height: 42px;
+    justify-content: space-between;
+    background-color: rgb(153, 58, 58);
+}
+
+li{
+    list-style: none;
+}
+
+.nav-item{
+    display: inline-block;
+    margin: auto 10px;
+}
